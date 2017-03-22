@@ -49,7 +49,7 @@ MyFirstApp이라는 솔루션 아래에 **MyFirstApp(Portable)** 이라는 공�
 3. **MyFirstApp.UWP** 프로젝트에서 마우스 오른쪽 버튼을 클릭하고 **Deploy** 버튼을 눌러서 배포를 진행하시기 바랍니다. 
 ![101_7](./101_7.PNG)
 
-4. 배포가 성공적으로 완료되면 아래와 같이 **Local Machine**을 선택하고 녹색 버튼을 눌러서 프로그램을 실행해보시기 바랍니다.
+4. 배포가 성공적으로 완료되면 아래와 같이 **MyFirstApp.UWP**로 설정을 변경하신 후, **Local Machine**을 선택하고 녹색 버튼을 눌러서 프로그램을 실행해보시기 바랍니다.
 ![101_8](./101_8.PNG)
 
 5. Welcome to Xamarin Forms! 메세지를 확인하실 수 있습니다. 
