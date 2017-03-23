@@ -1,0 +1,2 @@
+C:\Users\eunk\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword.UWP\Phoneword.UWP.csproj;x86
+C:\Users\eunk\Documents\Visual Studio 2017\Projects\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral

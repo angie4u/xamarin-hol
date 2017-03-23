@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Phoneword"
+             x:Class="Phoneword.MainPage">
+    <StackLayout Spacing="15">
+        <Label Text="전화번호 입력:" FontSize="Large"/>
+        <Entry Text="010-1234-5678" x:Name="phoneNumberText"/>
+        <Button Text="전화걸기" Clicked="OnCall"/>
+    </StackLayout>
+</ContentPage>
