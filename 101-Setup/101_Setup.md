@@ -24,36 +24,36 @@
 ### Visual Studio 실행
 1. Visual Studio 2017을 실행합니다. 
 2. **File > New > Project**룰 클릭하여 새로운 프로젝트 만들기를 시작해봅니다.
-![101_1](./101_1.png)
+![101_1](./images/101_1.png)
 
 ### Xamarin.Forms 솔루션 생성 
 1. 좌측의 메뉴에서 **Templates > Visual C# > Cross-Platform** 을 선택합니다.
 2. **Cross Platform App** 을 선택하고, 이름을 **MyFirstApp** 이라고 변경합니다.
-![101_2](./101_2.PNG)
+![101_2](./images/101_2.PNG)
 
 3. **Blank App**을 선택하고, UI Technology는 **Xamari.Forms** 를 선택, Code Sharing Strategy는 **Portable Class Library(PCL)**을 선택합니다.
 4. **OK** 버튼을 눌러서 계속 진행합니다.
-![101_3](./101_3.PNG)
+![101_3](./images/101_3.PNG)
 
 5. Winows application 버전과 관련하여 안내 메세지가 뜨는 경우, **OK** 버튼을 눌러서 계속 진행하시기 바랍니다.
-![101_4](./101_4.PNG)
+![101_4](./images/101_4.PNG)
 
 ### 생성된 프로젝트 목록 확인
 1. Solution Explorer 에서 생성된 프로젝트 목록을 확인하시기 바랍니다. 
 MyFirstApp이라는 솔루션 아래에 **MyFirstApp(Portable)** 이라는 공통의 라이브러리들을 위한 PCL 프로젝트와, Android용 프로젝트인 **MyFirstApp.Android**, iOS용 프로젝트인 **MyFirstApp.iOS**, 윈도우 10에서 동작하는 애플리케이션용 프로젝트인 **MyFirstApp.UWP**가 각각 생성된 것을 확인하실 수 있습니다. 
-![101_5](./101_5.PNG)
+![101_5](./images/101_5.PNG)
 
 2. **MyFirstApp.UWP**에서 마우스 오른쪽 버튼을 클릭하고 **Set as StartUp Project**를 선택하시기 바랍니다. 
-![101_6](./101_6.PNG)
+![101_6](./images/101_6.PNG)
 
 3. **MyFirstApp.UWP** 프로젝트에서 마우스 오른쪽 버튼을 클릭하고 **Deploy** 버튼을 눌러서 배포를 진행하시기 바랍니다. 
-![101_7](./101_7.PNG)
+![101_7](./images/101_7.PNG)
 
 4. 배포가 성공적으로 완료되면 아래와 같이 **MyFirstApp.UWP**로 설정을 변경하신 후, **Local Machine**을 선택하고 녹색 버튼을 눌러서 프로그램을 실행해보시기 바랍니다.
-![101_8](./101_8.PNG)
+![101_8](./images/101_8.PNG)
 
 5. Welcome to Xamarin Forms! 메세지를 확인하실 수 있습니다. 
-![101_9](./101_9.PNG)
+![101_9](./images/101_9.PNG)
 
 
 
