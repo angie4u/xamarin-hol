@@ -1,0 +1,22 @@
+1.
+Hello World 실행
+
+2. 
+Mac Agent 연결
+2-1. 맥북 command - connection wizard 에서 원격로그인 켜고
+eunji / pswd 입력
+** 안드로이드 기기 셋팅
+https://developer.xamarin.com/guides/android/getting_started/installation/set_up_device_for_development/
+
+
+3.
+솔루션 및 프로젝트 보여주기
+Dependency 확인시켜 주기
+App.cs 파일 열어서 구경시켜주기 
+화면 하나 추가해가지고 다른 화면 참조하게 만들기 
+Nuget 패키지 관리자 확인시키기 
+Application 상태 로그 찍어보기
+-> 아직 어떻게 하는지 못찾음
+
+4. 
+
