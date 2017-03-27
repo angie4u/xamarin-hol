@@ -1,0 +1,2 @@
+c:\users\eunk\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld.UWP\HelloWorld.UWP.csproj;x86
+c:\users\eunk\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\HelloWorld\HelloWorld.csproj;neutral
