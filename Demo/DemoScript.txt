@@ -1,0 +1,50 @@
+1.
+Hello World 실행
+
+2. 
+Mac Agent 연결
+2-1. 맥북 command - connection wizard 에서 원격로그인 켜고
+eunji / pswd 입력
+** 안드로이드 기기 셋팅
+https://developer.xamarin.com/guides/android/getting_started/installation/set_up_device_for_development/
+
+
+3.
+3-1. MyFirstApp 솔루션 구조 보여주기
+3-2. 4개의 프로젝트가 생성되어 있다는거 보여주기 3-3. MyFirstApp.Android가 MyFirstApp 참조하고 있다는거 보여주기 
+3-4. App.cs 파일 열어서 구경시켜주기
+3-5. Application Lifecyle 설명하면서 메소드 설명
+3-6. MainPage.xaml.cs 설명
+3-7. CarouselPage 추가하는거 보여주기
+3-8. Nuget 패키지 관리자 확인시키기 
+
+4. 
+4-1. 칠판에 페이지 구조 설명
+4-2. StackPage.xaml
+//Stack Layout 구조 설명 후 Demo 보여주기 
+    <StackLayout>
+        <StackLayout Orientation="Horizontal">            
+            <Image Source="Assets/tutle.PNG" WidthRequest="250" HeightRequest="250"/>
+            <Image Source="Assets/pika.PNG" WidthRequest="250" HeightRequest="250"/>
+        </StackLayout>
+        <Image Source="Assets/fire.PNG" WidthRequest="500" HeightRequest="250"/>
+    </StackLayout>
+
+4-3. GridPage.xaml
+//Grid Layout 구조 설명 후 Demo 보여주기
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Image Grid.Row="0" Grid.Column="0" Source="Assets/tutle.PNG" WidthRequest="250" HeightRequest="250" />
+        <Image Grid.Row="0" Grid.Column="1" Source="Assets/pika.PNG" WidthRequest="250" HeightRequest="250"/>
+        <Image Grid.Row="1" Grid.ColumnSpan="2" Source="Assets/fire.PNG" WidthRequest="500" HeightRequest="250"/>
+    </Grid>
+
+
+
