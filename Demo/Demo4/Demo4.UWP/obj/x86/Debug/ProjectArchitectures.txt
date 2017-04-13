@@ -1,2 +1,0 @@
-c:\users\eunk\documents\visual studio 2017\Projects\Demo4\Demo4\Demo4.UWP\Demo4.UWP.csproj;x86
-c:\users\eunk\documents\visual studio 2017\Projects\Demo4\Demo4\Demo4\Demo4.csproj;neutral
