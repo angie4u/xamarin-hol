@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MobileAuth"
+             x:Class="MobileAuth.MainPage">
+
+	<!--<Label Text="Welcome to Xamarin Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />-->
+    <StackLayout VerticalOptions="Center">
+        <Button x:Name="loginButton" Text="Sign-in" MinimumHeightRequest="30"
+                Clicked="loginButton_Clicked"/>
+        <Label x:Name="authLabel" Text="인증 되기 전" HorizontalTextAlignment="Center"/>
+    </StackLayout>
+
+</ContentPage>
