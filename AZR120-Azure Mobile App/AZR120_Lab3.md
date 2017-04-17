@@ -40,11 +40,11 @@ Azure Mobile App에 Identity Service Provider - Facebook 인증 연동하기
 
 8. 사이트 URL에 **https://(여러분의 Mobile App 이름).azurewebsites.net/.auth/login/facebook/callback** 을 입력하시고, 변경 내용 저장 버튼을 누르시기 바랍니다.
 
-![AZR120_3_12](./images/AZR120_3_12.PNG)
+![AZR120_3_12](./images/AZR120_3_12.png)
 
 9. 페이지 상단에 위치한 **앱 ID**와 **앱 시크릿 코드**를 기록해 둡니다.
 
-![AZR120_3_13](./images/AZR120_3_13.PNG)
+![AZR120_3_13](./images/AZR120_3_13.png)
 
 
 ### Azure Mobile App에 Facebook - 앱ID, 앱 시크릿 코드 입력하기
@@ -67,10 +67,10 @@ Azure Mobile App에 Identity Service Provider - Facebook 인증 연동하기
 
 5. Facebook 인증 설정 페이지에서 위에서 생성한 **앱 ID** 및 **앱 암호**를 입력하고 확인 버튼을 누릅니다. 
 
-![AZR120_3_14](./images/AZR120_3_14.PNG)
+![AZR120_3_14](./images/AZR120_3_14.png)
 
 6. 인증 공급자에서 Facebook이 **구성됨** 상태임을 확인한 후, **저장** 버튼을 눌러서 인증/권한 정보 변경을 완료하시기 바랍니다.
 
-![AZR120_3_15](./images/AZR120_3_15.PNG)
+![AZR120_3_15](./images/AZR120_3_15.png)
 
 
