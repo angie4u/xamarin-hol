@@ -7,7 +7,7 @@ Azure Mobile App 이란, 모바일 개발시 꼭 필요로 하는 기능인 인�
 * [Lab 1 - Azure Mobile App 생성하기](https://github.com/angie4u/xamarin-hol/blob/master/AZR120-Azure%20Mobile%20App/AZR120_Lab1.md) 
 * [Lab 2 - Xamarin.Forms 프로젝트 생성 및 필요한 패키지 설치하기](https://github.com/angie4u/xamarin-hol/blob/master/AZR120-Azure%20Mobile%20App/AZR120_Lab2.md) 
 * [Lab 3 - Facebook 개발자 페이지에서 내 앱 추가](https://github.com/angie4u/xamarin-hol/blob/master/AZR120-Azure%20Mobile%20App/AZR120_Lab3.md)
-* [Lab 4 - Azure Mobile SDK에서 제공하는 메소드를 이용하여](https://github.com/angie4u/xamarin-hol/blob/master/AZR120-Azure%20Mobile%20App/AZR120_Lab4.md) 
+* [Lab 4 - Azure Mobile SDK에서 제공하는 메소드를 이용하여 Facebook 인증 구현하기](https://github.com/angie4u/xamarin-hol/blob/master/AZR120-Azure%20Mobile%20App/AZR120_Lab4.md) 
 
 ### 예상 소요시간
 30분
