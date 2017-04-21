@@ -5,7 +5,9 @@ Xamarin 실습에 사용할 문서 및 자료를 모아둔 공간입니다. Xama
 ### Xamarin 설치하기 
 * [Xamarin 설치 안내 문서](http://aka.ms/xamarinstall)
 * 설치 안내 동영상
-[![Xamarin install](https://i.ytimg.com/vi/CoCHB92D7z8/2.jpg?time=1492771725165)](https://www.youtube.com/watch?v=CoCHB92D7z8&t=672s)
+
+[![Xamarin install](./XAM101-Setup/images/install.PNG)](https://www.youtube.com/watch?v=CoCHB92D7z8&t=672s)
+
 
 ### Xamarin 실습 자료
 * [XAM 101 - Xamarin.Forms 프로젝트를 생성하고 실행합니다](https://github.com/angie4u/xamarin-hol/tree/master/XAM101-Setup)
